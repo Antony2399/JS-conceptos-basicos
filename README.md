@@ -1,5 +1,3 @@
 # JS-conceptos-basicos
-## Solución de ejercicios de practica 1 tarea
+## Solución de tarea # 1
 
-
-- para soucion del ejercico 1 se necesitan datos de a, b ,c
